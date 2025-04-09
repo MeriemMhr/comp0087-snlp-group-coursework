@@ -2,5 +2,12 @@
 
 
 ### Selected datasets:
-* Arabic Sentiment Twitter Dataset for Levantine dialect (ArSenTD-LEV): https://huggingface.co/datasets/ramybaly/arsentd_lev/tree/main
-* Arabic Levantine Hate Speech Detection: https://www.kaggle.com/datasets/haithemhermessi/arabic-levantine-hate-speech-detection?resource=download
+
+* ArabicQA:A question-answering dataset for Modern Standard Arabic and dialects, designed to train and evaluate Arabic QA systems across a variety of domains.
+  https://github.com/DataScienceUIBK/ArabicaQA
+* AraStance: A stance detection dataset with Arabic tweets labeled as Favor, Against, or Neutral toward specific targets. Useful for opinion mining and social media analysis.
+  https://github.com/Tariq60/arastance
+  
+
+
+
