@@ -1,5 +1,9 @@
 # comp0087-snlp-group-coursework
 
+## Abstract
+
+This project aims to detect hate speech in low-resource languages by developing a computational framework that analyzes. The framework leverages reasoning methodologies and benchmarks results against high-resource languages.
+
 
 ### Selected datasets:
 
