@@ -79,7 +79,7 @@ These indicators provide insights into how well a tokenizer handles morphologica
 
 This project was developed as part of the [COMP0087: Statistical Natural Language Processing](https://comp0087.cs.ucl.ac.uk/) module at UCL (2024/25). It contributes to the broader research discourse on adaptive tokenization techniques, multilingual modeling, and equitable language technology for underrepresented linguistic communities.
 
-To access our final paper, see: **[View the full report (PDF)](https://placeholder-link.com/tokenization-paper)**
+To access our final paper, see: **[View the full report (.pdf)](https://placeholder-link.com/tokenization-paper)**
 
 ## Citation
 
