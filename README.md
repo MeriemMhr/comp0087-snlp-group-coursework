@@ -41,13 +41,13 @@ Note: All experiments were executed on Google Colab, with support for both CPU a
 ### Running the Experiments
 
 #### 1. Static Tokenization (Baseline Evaluation)
-Notebooks:
-🟢 `notebooks/stance_classification_static.ipynb`
-🟢 `notebooks/qa_evaluation_static.ipynb`
+🟢 Notebooks:
+- `notebooks/stance_classification_static.ipynb`
+- `notebooks/qa_evaluation_static.ipynb`
  
 #### 2. Embedding-Aware Tokenizer Extension
-Notebook:
-🟢 `notebooks/tokenizer_extension_embedding_aware.ipynb`
+🟢 Notebook:
+- `notebooks/tokenizer_extension_embedding_aware.ipynb`
 
 Evaluated metrics include:
 - Token fertility
@@ -56,8 +56,8 @@ Evaluated metrics include:
 - OOV rate
 
 #### 3. Dynamic Tokenization Integration
-Notebook:
-🟢 `notebooks/dynamic_tokenization_pooling.ipynb`
+🟢 Notebook:
+- `notebooks/dynamic_tokenization_pooling.ipynb`
 
 Based on: https://github.com/PiotrNawrot/dynamic-pooling
 
