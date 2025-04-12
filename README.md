@@ -2,7 +2,7 @@
 
 This repository presents the implementation and analysis developed for our COMP0087 Statistical Natural Language Processing group project at University College London, titled:
 
-**"Evaluating Dynamic Tokenization Strategies in Low-Resource Languages: A Case Study on Arabic”*"
+**"Evaluating Dynamic Tokenization Strategies in Low-Resource Languages: A Case Study on Arabic"**
 
 The project explores how different tokenization paradigms - including static, dynamic, and embedding-extended approaches - affect performance in low-resource natural language processing (NLP) tasks. Our experiments focus on Arabic, using stance classification and extractive question answering benchmarks, and fine-tune open large language models (LLMs) such as LLaMA 3.1 and Gemma 7B.
 
