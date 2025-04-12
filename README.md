@@ -1,6 +1,7 @@
 # Adaptive Tokenization for Arabic Language
 ### Unpacking Strategies for Low-Resource NLP
 
+---
 This repository presents the implementation and analysis developed for our COMP0087 Statistical Natural Language Processing group project at University College London, titled:
 
 **“Evaluating Dynamic Tokenization Strategies in Low-Resource Languages: A Case Study on Arabic”**
