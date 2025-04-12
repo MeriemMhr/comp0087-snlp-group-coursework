@@ -1,4 +1,5 @@
-# Adaptive Tokenization for Arabic: Unpacking Strategies for Low-Resource NLP
+# Adaptive Tokenization for Arabic Language
+### Unpacking Strategies for Low-Resource NLP
 
 This repository presents the implementation and analysis developed for our COMP0087 Statistical Natural Language Processing group project at University College London, titled:
 
@@ -42,12 +43,12 @@ Note: All experiments were executed on Google Colab, with support for both CPU a
 
 #### 1. Static Tokenization (Baseline Evaluation)
 Notebooks:
-- `notebooks/stance_classification_static.ipynb`
-- `notebooks/qa_evaluation_static.ipynb`
-
+🟢 `notebooks/stance_classification_static.ipynb`
+🟢 `notebooks/qa_evaluation_static.ipynb`
+ 
 #### 2. Embedding-Aware Tokenizer Extension
 Notebook:
-- `notebooks/tokenizer_extension_embedding_aware.ipynb`
+🟢 `notebooks/tokenizer_extension_embedding_aware.ipynb`
 
 Evaluated metrics include:
 - Token fertility
@@ -57,7 +58,7 @@ Evaluated metrics include:
 
 #### 3. Dynamic Tokenization Integration
 Notebook:
-- `notebooks/dynamic_tokenization_pooling.ipynb`
+🟢 `notebooks/dynamic_tokenization_pooling.ipynb`
 
 Based on: https://github.com/PiotrNawrot/dynamic-pooling
 
