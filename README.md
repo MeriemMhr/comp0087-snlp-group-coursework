@@ -4,11 +4,11 @@ This repository presents the implementation and analysis developed for our COMP0
 
 **“Evaluating Dynamic Tokenization Strategies in Low-Resource Languages: A Case Study on Arabic”**
 
-The project explores how different tokenization paradigms — including static, dynamic, and embedding-extended approaches - affect performance in low-resource natural language processing (NLP) tasks. Our experiments focus on Arabic, using stance classification and extractive question answering benchmarks, and fine-tune open large language models (LLMs) such as LLaMA 3.1 and Gemma 7B.
+The project explores how different tokenization paradigms - including static, dynamic, and embedding-extended approaches - affect performance in low-resource natural language processing (NLP) tasks. Our experiments focus on Arabic, using stance classification and extractive question answering benchmarks, and fine-tune open large language models (LLMs) such as LLaMA 3.1 and Gemma 7B.
 
 ## Abstract
 
-Tokenization is a foundational step in NLP pipelines, yet most existing tokenizers are optimized for high-resource languages. This study investigates the limitations of static subword tokenizers when applied to morphologically rich, underrepresented languages such as Arabic. We present a comparative evaluation of static tokenization, dynamic pair-merging, and embedding-aware vocabulary extensions. Our empirical findings demonstrate that even lightweight adjustments to token boundaries can lead to measurable improvements in model performance and significantly reduce out-of-vocabulary (OOV) rates—offering a pathway toward more inclusive and efficient language modeling in low-resource settings.
+Tokenization is a foundational step in NLP pipelines, yet most existing tokenizers are optimized for high-resource languages. This study investigates the limitations of static subword tokenizers when applied to morphologically rich, underrepresented languages such as Arabic. We present a comparative evaluation of static tokenization, dynamic pair-merging, and embedding-aware vocabulary extensions. Our empirical findings demonstrate that even lightweight adjustments to token boundaries can lead to measurable improvements in model performance and significantly reduce out-of-vocabulary (OOV) rates - offering a pathway toward more inclusive and efficient language modeling in low-resource settings.
 
 ## Selected Datasets
 
@@ -97,8 +97,7 @@ If you use or refer to this work, please cite:
 
 ## Acknowledgments
 
-We gratefully acknowledge **Professor Pontus Stenetorp** for leading the COMP0087 module and cultivating a research-driven learning environment.  
-Special thanks to **Eduardo Sánchez**, our teaching assistant, for his insightful feedback and support throughout the development of this project.
+We gratefully acknowledge **Professor Pontus Stenetorp** for leading the COMP0087 module and cultivating a research-driven learning environment. Special thanks to **Eduardo Sánchez**, our teaching assistant, for his insightful feedback and support throughout the development of this project.
 
 ## Contact
 
