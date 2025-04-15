@@ -38,30 +38,15 @@ pip install -r requirements.txt
 
 Note: All experiments were executed on Google Colab, with support for both CPU and A100 GPU runtimes. Access to the Hugging Face Hub is required (`huggingface-cli login`), and Google Drive should be mounted for dataset access.
 
-### Running the Experiments
+### Experiment Navigation
 
-#### Static Tokenization (Baseline Evaluation)
-🟢 Notebooks:
-- `notebooks/stance_classification_static.ipynb`
-- `notebooks/qa_evaluation_static.ipynb`
- 
-#### Embedding-Aware Tokenizer Extension
-🟢 Notebook:
-- `notebooks/tokenizer_extension_embedding_aware.ipynb`
+Our experiments are organized into three main folders under the [`experiments/`](./experiments) directory for easier navigation and reproducibility:
 
-Evaluated metrics include:
-- Token fertility
-- Compression ratio
-- Vocabulary coverage
-- OOV rate
+- [`dynamic-tokenization/`](./experiments/dynamic-tokenization): explores adaptive token selection using dynamic pooling strategies.  
+- [`question-answering/`](./experiments/question-answering): contains experiments evaluating tokenization strategies on Arabic and Estonian QA datasets.  
+- [`stance-detection-classification/`](./experiments/stance-detection-classification): includes stance classification tasks across multiple languages and model variants.
 
-#### Dynamic Tokenization Integration
-🟢 Notebook:
-- `notebooks/dynamic_tokenization_pooling.ipynb`
-
-Based on: https://github.com/PiotrNawrot/dynamic-pooling
-
-All notebooks contain training logs, evaluation plots, and per-task metrics.
+Each folder contains self-contained notebooks with relevant implementation details, training logs, and evaluation visualizations.
 
 ## Tokenization Metrics
 
