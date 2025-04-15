@@ -42,9 +42,9 @@ Note: All experiments were executed on Google Colab, with support for both CPU a
 
 Our experiments are organized into three main folders under the [`experiments/`](./experiments) directory for easier navigation and reproducibility:
 
-- [`dynamic-tokenization/`](./experiments/dynamic-tokenization): explores adaptive token selection using dynamic pooling strategies.  
 - [`question-answering/`](./experiments/question-answering): contains experiments evaluating tokenization strategies on Arabic and Estonian QA datasets.  
 - [`stance-detection-classification/`](./experiments/stance-detection-classification): includes stance classification tasks across multiple languages and model variants.
+- [`dynamic-tokenization/`](./experiments/dynamic-tokenization): explores adaptive token selection strategies.
 
 Each folder contains self-contained notebooks with relevant implementation details, training logs, and evaluation visualizations.
 
