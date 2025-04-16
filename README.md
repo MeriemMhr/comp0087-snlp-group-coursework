@@ -60,11 +60,24 @@ The following metrics are tracked across experiments:
 
 These indicators provide insights into how well a tokenizer handles morphologically complex text and are visualized throughout the project notebooks.
 
-## Project Context
+## Project Context & Collaborators
 
 This project was developed as part of the [COMP0087: Statistical Natural Language Processing](https://comp0087.cs.ucl.ac.uk/) module at UCL (2024/25). It contributes to the broader research discourse on adaptive tokenization techniques, multilingual modeling, and equitable language technology for underrepresented linguistic communities.
 
-To access our final paper, see: **[View the full report (.pdf)](https://placeholder-link.com/tokenization-paper)**
+This work was developed as a collaborative research effort by the following MSc students at University College London:
+
+- **Sadaf Mekan**  
+- **Meriem Mehri**  
+- **Reem Elnefary**  
+- **Michelle Anil**  
+- **Abdulwasii Ajayi**  
+- **Mariam Hassan**  
+- **Leonardo Gil**
+
+We are grateful for the shared contributions across data preparation, model development, experimental analysis, and writing. The insights presented in this repository reflect the joint efforts of the entire team.
+
+For full methodology and results, please refer to the accompanying paper:  
+📄 [Evaluating Tokenization Strategies in Low-Resource Languages (.pdf)](https://placeholder-link.com/tokenization-paper)
 
 ## Citation
 
