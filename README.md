@@ -77,7 +77,7 @@ This work was developed as a collaborative research effort by the following MSc 
 We are grateful for the shared contributions across data preparation, model development, experimental analysis, and writing. The insights presented in this repository reflect the joint efforts of the entire team.
 
 For full methodology and results, please refer to the accompanying paper:  
-📄 [Evaluating Tokenization Strategies in Low-Resource Languages (.pdf)](https://placeholder-link.com/tokenization-paper)
+📄 [Evaluating Tokenization Strategies in Low-Resource Languages (.pdf)]([https://placeholder-link.com/tokenization-paper](https://drive.google.com/file/d/1MDdwajDFKl6xdp88hnYH8TPhNNcDw9At/view?usp=sharing))
 
 ## Citation
 
